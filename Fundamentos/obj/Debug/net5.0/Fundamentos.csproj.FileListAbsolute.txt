@@ -1,0 +1,15 @@
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/Fundamentos.deps.json
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/Fundamentos.runtimeconfig.json
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/Fundamentos.runtimeconfig.dev.json
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/Fundamentos.dll
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/ref/Fundamentos.dll
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/bin/Debug/net5.0/Fundamentos.pdb
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.csprojAssemblyReference.cache
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.AssemblyInfoInputs.cache
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.AssemblyInfo.cs
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.csproj.CoreCompileInputs.cache
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.dll
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/ref/Fundamentos.dll
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.pdb
+/Users/alexandresouza/Documents/GitHub/Formacao-DOTNET-Developer/Fundamentos/obj/Debug/net5.0/Fundamentos.genruntimeconfig.cache
