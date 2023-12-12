@@ -1,14 +1,7 @@
-﻿using System;
+﻿using Fundamentos.Models;
 
-namespace Fundamentos
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Olá mundo");
-            
-        }
-    }
-}
+Pessoa pessoa1 =  new Pessoa();
+
+pessoa1.Nome = "Alexandre";
+pessoa1.Idade = 41;
+pessoa1.Apresentar();

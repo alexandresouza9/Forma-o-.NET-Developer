@@ -1,0 +1,15 @@
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Projetos\Formacao-DOTNET-Developer\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
